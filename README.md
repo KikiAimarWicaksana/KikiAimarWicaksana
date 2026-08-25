@@ -1,13 +1,11 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/819a8f8d-5aa4-46d9-88b4-fcb1c8c1b228" width="100%" alt="Cyber Banner" />
 
-https://github.com/user-attachments/assets/b924bb73-cd77-4592-b24b-8f27fa0dddb0
+  <h1>KIKI AIMAR WICAKSANA</h1>
 
-# KIKI AIMAR WICAKSANA
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
+  </a>
 </div>
 
 <hr/>
