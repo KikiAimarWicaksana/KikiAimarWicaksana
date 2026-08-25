@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:00ff66,100:0d1117&height=140&section=header&text=KIKI%20AIMAR%20WICAKSANA&fontSize=38&fontColor=ffffff&fontAlignY=50" width="100%" alt="Header Banner" /><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050811,50:00ff66,100:050811&height=130&section=header&text=KIKI%20AIMAR%20WICAKSANA&fontSize=36&fontColor=ffffff&fontAlignY=50&stroke=00ff66&strokeWidth=2" width="100%" alt="Header Banner" /><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Target%3A+Junior+SOC+Analyst+L1;Learning+Threat+Detection+%26+Traffic+Analysis;Practicing+Blue+Team+Labs+%26+Log+Monitoring." alt="Typing SVG" /></a>
 </div>
 
