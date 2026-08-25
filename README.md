@@ -5,9 +5,6 @@
 
 <hr/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 <h3><code>⚡ System Status & Bio</code></h3>
 <ul>
 <li><b>[+] Role:</b> Cybersecurity & Infrastructure Enthusiast</li>
@@ -15,6 +12,7 @@
 <li><b>[+] Mindset:</b> <i>"Curiosity + Security = Continuous Growth"</i></li>
 <li><b>[+] Open to:</b> Collaboration, discussions, and defense labs</li>
 </ul>
+
 <h3><code>🛡️ Security Arsenal & Tools</code></h3>
 <p>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF66" />
@@ -26,6 +24,7 @@
 <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00FF66" />
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF66" />
 </p>
+
 <h3><code>📡 Signal / Connect</code></h3>
 <p>
 <a href="https://www.linkedin.com/in/kikiaimarwicaksana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF66" /></a>
@@ -33,13 +32,6 @@
 <a href="https://www.instagram.com/kikiaimar" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00FF66" /></a>
 <a href="mailto:wicaksanakikiaimar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF66" /></a>
 </p>
-</td>
-<td width="50%" valign="top" align="center">
-<h3><code>📊 GitHub Telemetry</code></h3>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KikiAimarWicaksana&theme=tokyonight&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=c9d1d9&currStreakLabel=00ff66" alt="Streak Stats" />
-</td>
-</tr>
-</table>
 
 <hr/>
 
