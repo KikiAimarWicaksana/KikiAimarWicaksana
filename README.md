@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXk3MmF2MnU5ZGQzYnlycXJtNnEwZ3ZqcG80ejJlaHVwbmRtN3NmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ci4vIzBJxofxI8xbgh/giphy.gif" width="100%" alt="Cyber Banner" />
 
-  <h1>KIKI AIMAR WICAKSANA</h1>
+https://github.com/user-attachments/assets/b924bb73-cd77-4592-b24b-8f27fa0dddb0
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
-  </a>
+# KIKI AIMAR WICAKSANA
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
+</a>
+
 </div>
 
 <hr/>
