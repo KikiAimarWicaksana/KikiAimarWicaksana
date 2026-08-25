@@ -26,14 +26,6 @@
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF66" />
 </p>
 
-<h3><code>📡 Signal / Connect</code></h3>
-<p>
-<a href="https://www.linkedin.com/in/kikiaimarwicaksana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00FF66" /></a>
-<a href="https://www.threads.com/@kim.aimarr" target="_blank"><img src="https://img.shields.io/badge/Threads-0d1117?style=flat-square&logo=threads&logoColor=00FF66" /></a>
-<a href="https://www.instagram.com/kikiaimar" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=00FF66" /></a>
-<a href="mailto:wicaksanakikiaimar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF66" /></a>
-</p>
-
 <hr/>
 
 ```bash
