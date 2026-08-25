@@ -13,6 +13,34 @@
 <li><b>[+] Open to:</b> Collaboration, discussions, and defense labs</li>
 </ul>
 
+<h3><code>🚀 Featured Repositories & Projects</code></h3>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Umam07/BE-PentaDosen" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Umam07&repo=BE-PentaDosen&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
+</a>
+<br/><br/>
+<a href="https://github.com/KikiAimarWicaksana/Covid-Portofolio-Data-Analyst" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=Covid-Portofolio-Data-Analyst&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
+</a>
+<br/><br/>
+<a href="https://github.com/KikiAimarWicaksana/SiapLaundry" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=SiapLaundry&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Umam07/FE-PentaDosen" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Umam07&repo=FE-PentaDosen&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
+</a>
+<br/><br/>
+<a href="https://github.com/KikiAimarWicaksana/Personal-website" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=Personal-website&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
+
 <h3><code>🛡️ Security Arsenal & Tools</code></h3>
 <p>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF66" />
