@@ -1,38 +1,22 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/819a8f8d-5aa4-46d9-88b4-fcb1c8c1b228" width="500" alt="Cyber Banner" />
+  <img src="https://github.com/user-attachments/assets/819a8f8d-5aa4-46d9-88b4-fcb1c8c1b228" width="480" alt="Pixel Artifact Banner" />
 
-  <h1>KIKI AIMAR WICAKSANA</h1>
+  <h2>🕹️ KIKI AIMAR WICAKSANA 🕹️</h2>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+CLASS%3A+SECURITY+APPRENTICE;%3E+QUEST%3A+ROAD+TO+CYBERSECURITY;%3E+TARGET%3A+BLUE+TEAM+%2F+SOC+FOUNDATIONS." alt="Retro Pixel Typing SVG" />
   </a>
 </div>
 
 <hr/>
 
-<h3><code>⚡ Learning Progress & Bio</code></h3>
-<ul>
-<li><b>[+] Focus:</b> Belajar & eksplorasi dasar-dasar <b>Cybersecurity</b></li>
-<li><b>[+] Direction:</b> Membangun fondasi untuk mengarah ke bidang <b>SOC / Blue Team</b></li>
-<li><b>[+] Aktivitas:</b> Praktik lab dasar, belajar analisis traffic, dan eksplorasi Linux/tools</li>
-<li><b>[+] Mindset:</b> <i>"Belajar hal baru setiap hari — one step at a time."</i></li>
-</ul>
+<h3><code>[ SYSTEM LOG // PLAYER PROFILE ]</code></h3>
 
-<hr/>
-
-<h3><code>🛡️ Tools & Skills Being Learned</code></h3>
-<p>
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF66" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF66" />
-</p>
-
-<hr/>
-
-```bash
-$ cadet@kikiaimar:~# status --learning
-> [IN PROGRESS] Membangun fondasi security & networking.
+```text
+┌── [ STATUS WINDOW ] ──────────────────────────────────────────────┐
+│  • CLASS       : Security Cadet (Novice)                          │
+│  • CURRENT ARC : Road to Cybersecurity & Defense Fundamentals    │
+│  • OBJECTIVE   : Exploring SOC Analyst & Blue Team Basics         │
+│  • FOCUS LABS  : Packet Analysis, Linux Ops, Basic Recon          │
+│  • MOTTO       : "Level up daily — one packet at a time."         │
+└───────────────────────────────────────────────────────────────────┘
