@@ -35,13 +35,6 @@
 
 <hr/>
 
-<h3 align="center"><code>📈 Activity Waveform</code></h3>
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KikiAimarWicaksana&theme=react-dark&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
-
-<hr/>
-
 ```bash
 $ root@kikiaimar:~# whoami
 > Belajar hari ini, amankan sistem besok.
