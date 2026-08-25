@@ -1,27 +1,24 @@
 <!-- HEADER: ANIMATED MATRIX CAPSULE & TYPING -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff66,100:0d1117&height=180&section=header&text=KIKI%20AIMAR%20WICAKSANA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%3E%20Cybersecurity%20Explorer%20%7C%20Ethical%20Hacker%20in%20the%20Making&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
-  
   <br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Initializing+Security+Protocols...;Focus%3A+Network+Defense+%26+CTF+Challenges;Building+safer+systems%2C+one+commit+at+a+time." alt="Typing SVG" />
   </a>
 </div>
 
----
+<hr/>
 
 <!-- 2-COLUMN CYBER DASHBOARD -->
 <table>
   <tr>
-    <!-- KOLOM KIRI: ABOUT & TECH ARSENAL -->
     <td width="50%" valign="top">
       <h3><code>⚡ System Status & Bio</code></h3>
       <ul>
-        <li><code>[+]</code> <b>Role:</b> Cybersecurity & Infrastructure Enthusiast</li>
-        <li><code>[+]</code> <b>Focus:</b> Network Security, Penetration Testing & CTF</li>
-        <li><code>[+]</code> <b>Mindset:</b> <i>"Curiosity + Security = Continuous Growth"</i></li>
-        <li><code>[+]</code> <b>Open to:</b> Collaboration, discussions, and defense labs</li>
+        <li><b>[+] Role:</b> Cybersecurity & Infrastructure Enthusiast</li>
+        <li><b>[+] Focus:</b> Network Security, Penetration Testing & CTF</li>
+        <li><b>[+] Mindset:</b> <i>"Curiosity + Security = Continuous Growth"</i></li>
+        <li><b>[+] Open to:</b> Collaboration, discussions, and defense labs</li>
       </ul>
 
       <h3><code>🛡️ Security Arsenal & Tools</code></h3>
@@ -53,7 +50,6 @@
       </p>
     </td>
 
-    <!-- KOLOM KANAN: STATS MATRIX CARDS -->
     <td width="50%" valign="top" align="center">
       <h3><code>📊 GitHub Telemetry</code></h3>
       <img width="98%" src="https://github-readme-stats.vercel.app/api?username=KikiAimarWicaksana&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
@@ -63,17 +59,17 @@
   </tr>
 </table>
 
----
+<hr/>
 
-<!-- FULL-WIDTH DYNAMIC ACTIVITY GRAPH -->
+<!-- FULL-WIDTH ACTIVITY GRAPH -->
 <h3 align="center"><code>📈 Activity Waveform</code></h3>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KikiAimarWicaksana&theme=react-dark&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
----
+<hr/>
 
-<!-- TERMINAL FOOTER WITH FOOTER BANNER -->
+<!-- TERMINAL FOOTER -->
 ```bash
 $ root@kikiaimar:~# whoami
 > Belajar hari ini, amankan sistem besok.
