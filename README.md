@@ -36,9 +36,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 <h3><code>📊 GitHub Telemetry</code></h3>
-<img width="98%" src="https://github-readme-stats.vercel.app/api?username=KikiAimarWicaksana&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<br/><br/>
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=KikiAimarWicaksana&theme=tokyonight&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=c9d1d9&currStreakLabel=00ff66" alt="Streak Stats" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KikiAimarWicaksana&theme=tokyonight&background=0d1117&border=00ff66&stroke=00ff66&ring=00ff66&fire=00ff66&currStreakNum=00ff66&sideNums=c9d1d9&currStreakLabel=00ff66" alt="Streak Stats" />
 </td>
 </tr>
 </table>
