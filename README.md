@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/819a8f8d-5aa4-46d9-88b4-fcb1c8c1b228" width="100%" alt="Cyber Banner" />
+  <img src="https://github.com/user-attachments/assets/819a8f8d-5aa4-46d9-88b4-fcb1c8c1b228" width="500" alt="Cyber Banner" />
 
   <h1>KIKI AIMAR WICAKSANA</h1>
 
