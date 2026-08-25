@@ -14,32 +14,16 @@
 </ul>
 
 <h3><code>🚀 Featured Repositories & Projects</code></h3>
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Umam07/BE-PentaDosen" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Umam07&repo=BE-PentaDosen&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
-</a>
-<br/><br/>
-<a href="https://github.com/KikiAimarWicaksana/Covid-Portofolio-Data-Analyst" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=Covid-Portofolio-Data-Analyst&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
-</a>
-<br/><br/>
-<a href="https://github.com/KikiAimarWicaksana/SiapLaundry" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=SiapLaundry&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Umam07/FE-PentaDosen" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Umam07&repo=FE-PentaDosen&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
-</a>
-<br/><br/>
-<a href="https://github.com/KikiAimarWicaksana/Personal-website" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KikiAimarWicaksana&repo=Personal-website&theme=tokyonight&bg_color=0d1117&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" width="100%"/>
-</a>
-</td>
-</tr>
-</table>
+
+| Project | Tech Stack | Description | Link |
+| :--- | :--- | :--- | :--- |
+| **PentaDosen (Backend)** | `PHP` `Laravel` | Sistem manajemen dokumen dan KPI kinerja dosen perguruan tinggi | [🔗 Repository](https://github.com/Umam07/BE-PentaDosen) |
+| **PentaDosen (Frontend)** | `TypeScript` `React` | Antarmuka dashboard interaktif evaluasi dan monitoring dosen | [🔗 Repository](https://github.com/Umam07/FE-PentaDosen) |
+| **Covid Data Analyst** | `Python` `Tableau` | Analisis data visualisasi portofolio penyebaran Covid-19 | [🔗 Repository](https://github.com/KikiAimarWicaksana/Covid-Portofolio-Data-Analyst) |
+| **Personal Website** | `JavaScript` `CSS` | Situs web portofolio personal interaktif | [🔗 Repository](https://github.com/KikiAimarWicaksana/Personal-website) |
+| **SiapLaundry** | `TypeScript` | Sistem manajemen operasional laundry terintegrasi | [🔗 Repository](https://github.com/KikiAimarWicaksana/SiapLaundry) |
+
+<hr/>
 
 <h3><code>🛡️ Security Arsenal & Tools</code></h3>
 <p>
