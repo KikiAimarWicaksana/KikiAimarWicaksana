@@ -4,7 +4,7 @@
   <h1>KIKI AIMAR WICAKSANA</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Tujuan+awal%3A+Mempersiapkan+diri+ke+arah+SOC." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Road+to+Cybersecurity;Learning+fundamentals%2C+networking%2C+and+tools;Initial+Goal%3A+Paving+the+path+toward+SOC." alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,10 +12,10 @@
 
 <h3><code>⚡ Learning Progress & Bio</code></h3>
 <ul>
-<li><b>[+] Focus:</b> Belajar & eksplorasi dasar-dasar <b>Cybersecurity</b></li>
-<li><b>[+] Direction:</b> Membangun fondasi untuk mengarah ke bidang <b>SOC / Blue Team</b></li>
-<li><b>[+] Aktivitas:</b> Praktik lab dasar, belajar analisis traffic, dan eksplorasi Linux/tools</li>
-<li><b>[+] Mindset:</b> <i>"Belajar hal baru setiap hari — one step at a time."</i></li>
+<li><b>[+] Focus:</b> Exploring and mastering <b>Cybersecurity Fundamentals</b></li>
+<li><b>[+] Trajectory:</b> Building solid foundations toward <b>SOC & Blue Team Operations</b></li>
+<li><b>[+] Activities:</b> Hands-on practice with security labs, network traffic analysis, and Linux tools</li>
+<li><b>[+] Mindset:</b> <i>"Learn something new every day — one step at a time."</i></li>
 </ul>
 
 <hr/>
@@ -35,4 +35,4 @@
 
 ```bash
 $ cadet@kikiaimar:~# status --learning
-> [IN PROGRESS] Membangun fondasi security & networking.
+> [IN PROGRESS] Building core security and networking foundations.
